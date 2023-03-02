@@ -1,0 +1,9 @@
+}
+@media (min-width:768px){
+	#collapsable-nav{
+		visibility: hidden;
+	}
+}
+.content-cell{
+	background-color:#ce8b48;
+}
