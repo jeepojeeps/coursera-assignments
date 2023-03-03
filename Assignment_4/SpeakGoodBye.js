@@ -1,7 +1,7 @@
 (function (window) {
 var speakWord = "Good Bye";
 var byeSpeaker = {
-  spek: function (name){
+  speak: function (name){
     console.log(speakWord + " " + name);
   }
 };
