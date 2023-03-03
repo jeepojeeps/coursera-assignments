@@ -6,4 +6,4 @@ var byeSpeaker = {
   }
 };
 window.byeSpeaker = byeSpeaker;
-}(window);
+}(window)
